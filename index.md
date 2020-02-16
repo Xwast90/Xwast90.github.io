@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+### Ahh Welcome!
 
-You can use the [editor on GitHub](https://github.com/Xwast90/Xwast90.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is my website, a place to display all of the work that I do throughout the semester in this class
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've been working with code for... well about the past 10 years of my life atleast starting back in highschool with html, it's always been something that I've found to be rather interesting, and I intend to keep working with it even far into the future, the most interesting thing about it for me, is watching the words and images on a page, just change into whatever I type up.
 
-### Markdown
+***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Here are the links to my Projects 
+### They will go live as they are created.
+[Media Queries]
+[Skeleton]
+[Flexbox]
+[Bootstrap]
+[UIKit]
 
-```markdown
-Syntax highlighted code block
+here as a little bit of a fun thing is an image that I had made in a previous class!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xwast90/Xwast90.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![my seven rings project made using blender](https://raw.githubusercontent.com/Xwast90/Xwast90.github.io/master/Metalic7Ringscycles.png "one of my more complex works from Blender")
