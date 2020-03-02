@@ -1,4 +1,30 @@
 @charset "utf-8";
+
+#container {
+  position: relative;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box; }
+	
+
+.grid_1,  .grid_2,  .grid_3,  .grid_4,  .grid_5,  .grid_6,  .grid_7,  .grid_8,  .grid_9,  .grid_10,  .grid_11,  .grid_12 {
+width: 100%;
+  float: left;
+  box-sizing: border-box;
+}
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+	
+
+}
+
+@media only screen and (min-width: 550px) {
 #redBox {
 	background-color: #c30;
 	height: 50px;
@@ -41,7 +67,7 @@
 	width: 74.5%;  /*width: 745px;*/
 }
 .grid_10 {
-	width: 83%x;  /*width: 830px;*/
+	width: 83%;  /*width: 830px;*/
 }
 .grid_11 {
 	width: 91.5%;  /*width: 915px;*/
@@ -87,32 +113,5 @@
 }
 
 
-@media only screen and (max-width: 768px) {
-	
-	#picture{display:none;
-}
 
-#picture2{display:inline-block;}
-
-#redBox {
-	background-color: #00F;
-	height: 50px;
-}
-}
-
-@media only screen and (max-width: 480px) {
-	
-	#picture{display:none;
-}
-
-#picture2{display:none;}
-
-#redBox {
-	background-color: #090;
-	height: 50px;
-}
-
-.grid_1,  .grid_2,  .grid_3,  .grid_4,  .grid_5,  .grid_6,  .grid_7,  .grid_8,  .grid_9,  .grid_10,  .grid_11,  .grid_12 {
-width: 100%;
-}
 }
