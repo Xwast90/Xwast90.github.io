@@ -60,24 +60,33 @@ img{max-width: 100%;
 
 
 }
+footer {margin-top:0px;
+	padding:10px 0 10px 0;
 
+}
 .foot1 {
+	display:inline;
+	font-size:1.25em;
 
 }
 
-.foot2 {
+.foot2 { display:inline;
+	font-size:1.25em;
 
 }
 
-.foot3 {
+.foot3 { display:inline;
+	font-size:1.25em;
 
 }
 
-.foot4 {
+.foot4 {display:inline;
+	font-size:1.25em;
 
 }
 
-.foot5 {
+.foot5 {display:inline;
+	font-size:1.25em;
 
 }
 
