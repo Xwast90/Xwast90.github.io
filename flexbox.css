@@ -21,6 +21,23 @@ background-color: #1468a8;
 
 
 }
+
+
+a:link {
+  color: #daedff;
+}
+
+a:visited {
+  color: #EB9676;
+}
+
+a:hover {
+  color: #daedff;
+}
+
+a:active {
+  color: #1468a8;
+}
 img{max-width: 100%;
 	height: auto;
 
@@ -101,9 +118,9 @@ footer {margin-top:0px;
 order:3; }
 .col-2 { flex: 1 0px; 
 order:1;}
-.foot1 { flex: 1 0px; order:2;}
-.foot2 { flex: 1 0px; order:3;}
-.foot3 { flex: 1 0px; order:4;}
-.foot4 { flex: 1 0px; order:5;}
-.foot5 { flex: 1 0px; order:1;}
+.foot1 { flex: 1 0px; }
+.foot2 { flex: 1 0px; }
+.foot3 { flex: 1 0px; }
+.foot4 { flex: 1 0px; }
+.foot5 { flex: 1 0px; }
 }
