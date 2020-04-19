@@ -64,7 +64,10 @@ img{max-width: 100%;
 }
 
 
-.col-1 {font-size:1.25em;
+.col-1 {margin-top:0px;
+	padding:10px 0 10px 0;
+display:inline;
+	font-size:1.25em;
 
 
 }
@@ -118,7 +121,7 @@ footer {margin-top:0px;
 order:3; }
 .col-2 { flex: 1 0px; 
 order:1;}
-.foot1 { flex: 1 0px; }
+.foot1 { flex: 1 0px; display:block;}
 .foot2 { flex: 1 0px; }
 .foot3 { flex: 1 0px; }
 .foot4 { flex: 1 0px; }
