@@ -17,6 +17,7 @@ background-color: #1468a8;
 .flex-container {
 
   display: flex;
+  flex: 1 100%;
   
   flex-flow: row wrap;
   
