@@ -47,7 +47,7 @@ img{max-width: 100%;
 }
 
 
-.col-1 {
+.col-1 {font-size:1.25em;
 
 
 }
@@ -95,12 +95,15 @@ footer {margin-top:0px;
 }
 
 @media all and (min-width: 800px) {
-  .main    { flex: 3 0px; }
-  .col-1 { flex: 1 0px; }
-.col-2 { flex: 1 0px; }
-.foot1 { flex: 1 0px; }
-.foot2 { flex: 1 0px; }
-.foot3 { flex: 1 0px; }
-.foot4 { flex: 1 0px; }
-.foot5 { flex: 1 0px; }
+  .main    { flex: 3 0px; 
+	  order:3;}
+  .col-1 { flex: 1 0px;
+order:2; }
+.col-2 { flex: 1 0px; 
+order:1;}
+.foot1 { flex: 1 0px; order:2;}
+.foot2 { flex: 1 0px; order:3;}
+.foot3 { flex: 1 0px; order:4;}
+.foot4 { flex: 1 0px; order:5;}
+.foot5 { flex: 1 0px; order:1;}
 }
