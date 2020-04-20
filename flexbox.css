@@ -43,7 +43,7 @@ img{max-width: 100%;
 
 }
 
-
+/*flex start */
 .flex-container {
 
   display: flex;
@@ -56,7 +56,7 @@ img{max-width: 100%;
   padding: 0;
   margin: 0;
 }
-
+/*extra class if needed for later, as well as helps define order in site for the flex */
 .header{
 
 
@@ -70,7 +70,7 @@ display:inline;
 list-style-type: none;
 
 }
-
+/*ditto with above comment on the header */
 .main{
 
 }
@@ -81,34 +81,11 @@ list-style-type: none;
 }
 footer {margin-top:0px;
 	padding:10px 0 10px 0;
-
-}
-.foot1 {
-	display:inline;
+display:inline;
 	font-size:1.25em;
 
 }
-
-.foot2 { display:inline;
-	font-size:1.25em;
-
-}
-
-.foot3 { display:inline;
-	font-size:1.25em;
-
-}
-
-.foot4 {display:inline;
-	font-size:1.25em;
-
-}
-
-.foot5 {display:inline;
-	font-size:1.25em;
-
-}
-
+/*Responsive shifting Code */
 @media all and (min-width: 600px) {
   .col-1,col-2 { flex: 1 0 0; }
 }
@@ -122,9 +99,4 @@ order:3;
 	  display:block; }
 .col-2 { flex: 1 0px; 
 order:1;}
-.foot1 { flex: 1 0px; }
-.foot2 { flex: 1 0px; }
-.foot3 { flex: 1 0px; }
-.foot4 { flex: 1 0px; }
-.foot5 { flex: 1 0px; }
 }
