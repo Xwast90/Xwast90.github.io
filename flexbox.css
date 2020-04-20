@@ -111,14 +111,15 @@ footer {margin-top:0px;
 }
 
 @media all and (min-width: 600px) {
-  .col { flex: 1 0 0; }
+  .col-1,col-2 { flex: 1 0 0; }
 }
 
 @media all and (min-width: 800px) {
   .main    { flex: 3 0px; 
 	  order:2;}
   .col-1 { flex: 1 0px;
-order:3; }
+order:3;
+ list-style-type: none;}
 .col-2 { flex: 1 0px; 
 order:1;}
 .foot1 { flex: 1 0px; display:block;}
