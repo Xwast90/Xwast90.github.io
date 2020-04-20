@@ -119,10 +119,11 @@ footer {margin-top:0px;
 	  order:2;}
   .col-1 { flex: 1 0px;
 order:3;
- list-style-type: none;}
+ list-style-type: none;
+	  display:block; }
 .col-2 { flex: 1 0px; 
 order:1;}
-.foot1 { flex: 1 0px; display:block;}
+.foot1 { flex: 1 0px; }
 .foot2 { flex: 1 0px; }
 .foot3 { flex: 1 0px; }
 .foot4 { flex: 1 0px; }
