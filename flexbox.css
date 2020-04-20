@@ -100,5 +100,7 @@ order:3;
 	  display:block; }
 .col-2 { flex: 1 0px; 
 order:1;}
+footer {display:inline;}
+	
 }
 
