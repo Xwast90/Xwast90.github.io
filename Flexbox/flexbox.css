@@ -1,0 +1,105 @@
+body{
+background-image: url("Triangle-Tile.png");
+
+background-repeat: repeat;
+
+}
+
+h2{
+text-align: center;
+}
+
+h3{
+text-align: center;
+}
+
+div{ border:double #062134;
+background-color: #1468a8;
+	color:#daedff;
+	border-color:#daedff;
+
+
+
+}
+
+
+a:link {
+  color: #daedff;
+}
+
+a:visited {
+  color: #EB9676;
+}
+
+a:hover {
+  color: #daedff;
+}
+
+a:active {
+  color: #1468a8;
+}
+img{max-width: 100%;
+	height: auto;
+
+}
+ul{display:inline;}
+
+/*flex start */
+.flex-container {
+
+  display: flex;
+  flex: 1 100%;
+  
+  flex-flow: row wrap;
+  
+  justify-content: space-around;
+  
+  padding: 0;
+  margin: 0;
+}
+/*extra class if needed for later, as well as helps define order in site for the flex */
+.header{
+
+
+}
+
+
+.col-1 {margin-top:0px;
+	padding:10px 0 10px 0;
+display:inline;
+	font-size:1.25em;
+list-style-type: none;
+
+}
+/*ditto with above comment on the header */
+.main{
+
+}
+
+.col-2 { 
+
+
+}
+footer {margin-top:0px;
+	padding:10px 0 10px 0;
+display:inline;
+	font-size:1.25em;
+
+}
+/*Responsive shifting Code */
+@media all and (min-width: 600px) {
+  .col-1,col-2 { flex: 1 0 0; }
+}
+
+@media all and (min-width: 800px) {
+  .main    { flex: 3 0px; 
+	  order:2;}
+  .col-1 { flex: 1 0px;
+order:3;
+ list-style-type: none;
+	  display:block; }
+.col-2 { flex: 1 0px; 
+order:1;}
+footer {display:inline;}
+	
+}
