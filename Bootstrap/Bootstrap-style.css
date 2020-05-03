@@ -41,3 +41,16 @@ a:active {
 }
 img{max-width: 100%;
 	height: auto;
+
+}
+/*--- navigation bar ---*/
+
+
+
+.nav-link {
+  margin-right: 1em !important;
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+}
