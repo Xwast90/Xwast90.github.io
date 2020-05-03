@@ -11,6 +11,12 @@ section#intro-header {
   background-size: cover;
 }
 
+section#intro-header .wrap-headline {
+  position: relative;
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+
 h2{
 text-align: center;
 }
