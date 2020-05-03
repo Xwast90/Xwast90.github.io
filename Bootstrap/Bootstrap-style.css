@@ -1,0 +1,43 @@
+
+body{
+background-image: url("Triangle-Tile.png");
+
+background-repeat: repeat;
+
+}
+
+h2{
+text-align: center;
+}
+
+h3{
+text-align: center;
+}
+
+div{ border:double #062134;
+background-color: #1468a8;
+	color:#daedff;
+	border-color:#daedff;
+
+
+
+}
+
+
+a:link {
+  color: #daedff;
+}
+
+a:visited {
+  color: #EB9676;
+}
+
+a:hover {
+  color: #daedff;
+}
+
+a:active {
+  color: #1468a8;
+}
+img{max-width: 100%;
+	height: auto;
