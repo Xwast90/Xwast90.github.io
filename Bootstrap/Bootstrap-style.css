@@ -6,6 +6,11 @@ background-repeat: repeat;
 
 }
 
+section#intro-header {
+  background-image: url(c2b425414467fbda28ade21469908c49.jpg);
+  background-size: cover;
+}
+
 h2{
 text-align: center;
 }
