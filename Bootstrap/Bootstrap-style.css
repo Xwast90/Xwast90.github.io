@@ -17,6 +17,11 @@ section#intro-header .wrap-headline {
   padding-bottom: 20%;
 }
 
+section#contact form {
+  padding-top: 9rem;
+  padding-bottom: 3rem;
+}
+
 .navbar{background-color: #1468a8;}
 
 section#exhibits{background-color: #1468a8;}
@@ -25,7 +30,7 @@ section#gift-shop{background-color: #1468a8;}
 
 section#about{background-color: #1468a8;}
 
-section#Contact{background-color: #1468a8;}
+section#contact{background-color: #1468a8;}
 
 
 
