@@ -25,16 +25,20 @@ section#contact form {
 .navbar{background-color: #1468a8;}
 
 section#exhibits{background-color: #1468a8;
-	padding-top: 10%; }
+	padding-top: 10%;
+padding-bottom: 10%; }
 
 section#gift-shop{background-color: #1468a8;
-  padding-top: 10%;}
+  padding-top: 10%;
+padding-bottom: 10%;}
 
 section#about{background-color: #1468a8;
-	padding-top: 10%; }
+	padding-top: 10%;
+padding-bottom: 10%; }
 
 section#contact{background-color: #1468a8;
-  padding-top: 10%;}
+  padding-top: 10%;
+padding-bottom: 10%;}
 
 
 
